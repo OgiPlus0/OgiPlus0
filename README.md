@@ -7,7 +7,18 @@
 
   <img src="https://i.giphy.com/media/ko7twHhomhk8E/giphy.webp" width="900" height="180" align="center"/>
 
-  <h1 align="center">𝓞𝓰𝓾𝔃𝓱𝓪𝓷 𝓢𝓘𝓝𝓘𝓚</h1>
+  <h1 align="center">                                                                              
+                            ■                                                 
+  ■■■■                      ■                       ■■■  ■  ■■   ■  ■  ■   ■  
+ ■■   ■                     ■                      ■     ■  ■■   ■  ■  ■  ■   
+ ■     ■   ■■■  ■   ■  ■■■■ ■■■■   ■■■■  ■■■■      ■     ■  ■ ■  ■  ■  ■ ■    
+ ■     ■  ■  ■  ■   ■    ■  ■■ ■■  ■  ■  ■■ ■■     ■■■   ■  ■ ■■ ■  ■  ■■■    
+ ■     ■  ■  ■  ■   ■   ■   ■   ■   ■■■  ■   ■       ■■  ■  ■  ■ ■  ■  ■ ■    
+ ■     ■  ■■■■  ■   ■   ■   ■   ■  ■  ■  ■   ■         ■ ■  ■   ■■  ■  ■  ■   
+ ■■   ■   ■     ■  ■■  ■    ■   ■  ■  ■  ■   ■     ■   ■ ■  ■   ■■  ■  ■   ■  
+  ■■■■    ■■■■  ■■■■■ ■■■■■ ■   ■  ■■■■  ■   ■     ■■■■  ■  ■    ■  ■  ■   ■■ 
+          ■  ■■                                                               
+          ■■■■                    </h1>
   
 Languages
 Python JavaScript C Java TypeScript C++ SQL Swift
