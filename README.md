@@ -5,7 +5,8 @@
 - 💼 I'm founder of Togiy 
 - 🚀 I'm team leader of ATAROKET
 
-<iframe src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N">via GIPHY</a></p>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
 
 Languages
 Python JavaScript C Java TypeScript C++ SQL Swift
