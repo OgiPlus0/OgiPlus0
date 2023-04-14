@@ -6,7 +6,7 @@
 - 🚀 I'm team leader of ATAROKET
 
 <p align="center">
-![oguzhan-sinik](https://user-images.githubusercontent.com/108802411/232167116-f79ad475-100a-4992-88fb-7baae44b6bbe.png)
+https://user-images.githubusercontent.com/108802411/232167116-f79ad475-100a-4992-88fb-7baae44b6bbe.png
 </p>
 
 
