@@ -5,9 +5,8 @@
 - 💼 I'm founder of Togiy 
 - 🚀 I'm team leader of ATAROKET
 
-<p align="center">
-https://user-images.githubusercontent.com/108802411/232167116-f79ad475-100a-4992-88fb-7baae44b6bbe.png
-</p>
+![oguzhan-sinik](https://user-images.githubusercontent.com/108802411/232167306-5690cd4a-a627-4c7b-9853-c251edd0b0f7.png)
+
 
 
 Languages
