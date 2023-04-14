@@ -7,9 +7,7 @@
 
   <img src="https://i.giphy.com/media/ko7twHhomhk8E/giphy.webp" width="900" height="180" align="center"/>
 
-  <img align="center">
-![inkpx-word-art](https://user-images.githubusercontent.com/108802411/232166729-0afb29f9-d054-4c3d-89aa-f18263e7a1fb.png)
-</img>
+  <img align="center" ![inkpx-word-art](https://user-images.githubusercontent.com/108802411/232166729-0afb29f9-d054-4c3d-89aa-f18263e7a1fb.png) />
   
 Languages
 Python JavaScript C Java TypeScript C++ SQL Swift
