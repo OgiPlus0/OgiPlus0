@@ -5,8 +5,6 @@
 - 💼 I'm founder of Togiy 
 - 🚀 I'm team leader of ATAROKET
 
-  <img src="https://i.giphy.com/media/ko7twHhomhk8E/giphy.webp" width="900" height="180" align="center"/>
-
 ![inkpx-word-art (2)](https://user-images.githubusercontent.com/108802411/232167116-f79ad475-100a-4992-88fb-7baae44b6bbe.png)
 
 Languages
