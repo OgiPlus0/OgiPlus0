@@ -5,7 +5,10 @@
 - 💼 I'm founder of Togiy 
 - 🚀 I'm team leader of ATAROKET
 
-![inkpx-word-art (2)](https://user-images.githubusercontent.com/108802411/232167116-f79ad475-100a-4992-88fb-7baae44b6bbe.png)
+<p align="center">
+![oguzhan-sinik](https://user-images.githubusercontent.com/108802411/232167116-f79ad475-100a-4992-88fb-7baae44b6bbe.png)
+</p>
+
 
 Languages
 Python JavaScript C Java TypeScript C++ SQL Swift
