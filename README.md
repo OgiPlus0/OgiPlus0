@@ -8,12 +8,7 @@
   <img src="https://i.giphy.com/media/ko7twHhomhk8E/giphy.webp" width="1000" height="200" align="center"/>
 
   <h1 align="center">
-
-  _____   ______ _     _ ______ _     _ _______ __   _      _______ _____ __   _ _____ _     _
- |     | |  ____ |     |  ____/ |_____| |_____| | \  |      |______   |   | \  |   |   |____/ 
- |_____| |_____| |_____| /_____ |     | |     | |  \_|      ______| __|__ |  \_| __|__ |    \_
-                                                                                              
-
+𝓞𝓰𝓾𝔃𝓱𝓪𝓷 𝓢𝓘𝓝𝓘𝓚                                                                                
 </h1>
 Languages
 Python JavaScript C Java TypeScript C++ SQL Swift
