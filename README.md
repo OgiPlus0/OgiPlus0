@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://i.ibb.co/MPyx9PM/inkpx-word-art-2.png" />
-  - 👋 Hi, I’m Oğuzhan ŞİNİK
+  
+- 👋 Hi, I’m Oğuzhan ŞİNİK
 - 👀 I’m interested in Web/Mobile Developing And 
 - 🌱 I’m currently learning Artificial Intelligince
 - 📫 How to reach me ogzdlk06@gmail.com
