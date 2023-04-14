@@ -6,10 +6,11 @@
 - 🚀 I'm team leader of ATAROKET
 
 ![oguzhan-sinik](https://user-images.githubusercontent.com/108802411/232167306-5690cd4a-a627-4c7b-9853-c251edd0b0f7.png)
-
-<div style="text-align:center">
-<img align="center" src"https://ibb.co/3S59kSB" />
+<div id="header" align="center">
+  <img src="https://ibb.co/3S59kSB" width="100"/>
 </div>
+
+
 
 Languages
 Python JavaScript C Java TypeScript C++ SQL Swift
