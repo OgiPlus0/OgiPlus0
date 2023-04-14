@@ -7,9 +7,8 @@
 
   <img src="https://i.giphy.com/media/ko7twHhomhk8E/giphy.webp" width="900" height="180" align="center"/>
 
-![oguzhan-sinik](https://user-images.githubusercontent.com/108802411/232166851-1682625c-d3fe-4a8c-b395-761a90676ee6.png)
+![inkpx-word-art (2)](https://user-images.githubusercontent.com/108802411/232167116-f79ad475-100a-4992-88fb-7baae44b6bbe.png)
 
-  
 Languages
 Python JavaScript C Java TypeScript C++ SQL Swift
 
