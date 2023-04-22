@@ -5,7 +5,8 @@
 
 <div align="center" >
   <h2>Web & Mobile Developer | Ai Researcher | Avionics at ATAROKET</h2>
-  ![lineq](https://user-images.githubusercontent.com/108802411/233771788-49345f74-fa90-4ed1-8214-0a1355bc7b13.gif)
+  
+  ![line1](https://user-images.githubusercontent.com/108802411/233771788-49345f74-fa90-4ed1-8214-0a1355bc7b13.gif)
   </div>
 
 
